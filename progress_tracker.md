@@ -4,3 +4,4 @@
 | Day 1 | Simple Array Sum | Arrays | Easy |
 | Day 1 | Breaking the Records | Arrays | Easy |
 | Day 1 | Number Line Jumps | Math | Easy |
+| Day 2 | Staircase | Patterns | Easy |
