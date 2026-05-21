@@ -9,3 +9,4 @@
 | Day 2 | Quicksort 1 - Partition | Sorting | Easy |
 | Day 2 | Between Two Sets | Mathematics | Easy |
 | Day 3 | Super Reduced String | Strings | Easy |
+| Day 3 | Bill Division | Arrays | Easy |
