@@ -11,3 +11,4 @@
 | Day 3 | Super Reduced String | Strings | Easy |
 | Day 3 | Bill Division | Arrays | Easy |
 | Day 3 | A Very Big Sum | Arrays | Easy |
+| Day 3 | Plus Minus | Arrays | Easy |
