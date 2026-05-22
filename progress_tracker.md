@@ -13,3 +13,4 @@
 | Day 3 | A Very Big Sum | Arrays | Easy |
 | Day 3 | Plus Minus | Arrays | Easy |
 | Day 4 | Subarray Division | Arrays / Sliding Window | Easy |
+| Day 4 | Migratory Birds | Arrays / HashMap | Easy |
