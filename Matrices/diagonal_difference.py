@@ -32,10 +32,10 @@ def diagonalDifference(arr):
 
     for i in range(n):
 
-        # Left-to-right diagonal
+        # Primary diagonal
         primary_diagonal += arr[i][i]
 
-        # Right-to-left diagonal
+        # Secondary diagonal
         secondary_diagonal += arr[i][n - 1 - i]
 
     # Return absolute difference
