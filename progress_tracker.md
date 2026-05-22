@@ -14,3 +14,4 @@
 | Day 3 | Plus Minus | Arrays | Easy |
 | Day 4 | Subarray Division | Arrays / Sliding Window | Easy |
 | Day 4 | Migratory Birds | Arrays / HashMap | Easy |
+| Day 4 | Diagonal Difference | Matrices | Easy |
