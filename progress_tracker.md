@@ -12,3 +12,4 @@
 | Day 3 | Bill Division | Arrays | Easy |
 | Day 3 | A Very Big Sum | Arrays | Easy |
 | Day 3 | Plus Minus | Arrays | Easy |
+| Day 4 | Subarray Division | Arrays / Sliding Window | Easy |
