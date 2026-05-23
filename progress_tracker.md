@@ -19,3 +19,4 @@
 | Day 5 | Grading Students | Implementation | Easy |
 | Day 5 | Drawing Book | Implementation | Easy |
 | Day 5 | Divisible Sum Pairs | Arrays / Mathematics | Easy |
+| Day 5 | Mini-Max Sum | Arrays | Easy |
