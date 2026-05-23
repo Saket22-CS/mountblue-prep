@@ -17,3 +17,4 @@
 | Day 4 | Diagonal Difference | Matrices | Easy |
 | Day 4 | Birthday Cake Candles | Arrays | Easy |
 | Day 5 | Grading Students | Implementation | Easy |
+| Day 5 | Drawing Book | Implementation | Easy |
