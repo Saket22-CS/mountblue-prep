@@ -21,3 +21,4 @@
 | Day 5 | Divisible Sum Pairs | Arrays / Mathematics | Easy |
 | Day 5 | Mini-Max Sum | Arrays | Easy |
 | Day 6 | Counting Valleys | Implementation | Easy |
+| Day 6 | Library Fine | Implementation | Easy |
