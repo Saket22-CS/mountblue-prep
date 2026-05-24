@@ -23,3 +23,4 @@
 | Day 6 | Counting Valleys | Implementation | Easy |
 | Day 6 | Library Fine | Implementation | Easy |
 | Day 6 | Time Conversion | Strings | Easy |
+| Day 6 | Caesar Cipher | Strings | Easy |
