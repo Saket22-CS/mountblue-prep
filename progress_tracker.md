@@ -25,3 +25,4 @@
 | Day 6 | Time Conversion | Strings | Easy |
 | Day 6 | Caesar Cipher | Strings | Easy |
 | Day 7 | Tower Breakers | Game Theory | Easy |
+| Day 7 | Day of the Programmer | Implementation | Easy |
