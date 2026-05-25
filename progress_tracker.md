@@ -26,3 +26,4 @@
 | Day 6 | Caesar Cipher | Strings | Easy |
 | Day 7 | Tower Breakers | Game Theory | Easy |
 | Day 7 | Day of the Programmer | Implementation | Easy |
+| Day 7 | The Hurdle Race | Implementation | Easy |
