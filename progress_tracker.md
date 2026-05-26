@@ -28,3 +28,4 @@
 | Day 7 | Day of the Programmer | Implementation | Easy |
 | Day 7 | The Hurdle Race | Implementation | Easy |
 | Day 7 | Strong Password | Strings | Easy |
+| Day 8 | Minimum Absolute Difference in an Array | Sorting | Easy |
