@@ -29,3 +29,4 @@
 | Day 7 | The Hurdle Race | Implementation | Easy |
 | Day 7 | Strong Password | Strings | Easy |
 | Day 8 | Minimum Absolute Difference in an Array | Sorting | Easy |
+| Day 8 | Mars Exploration | Strings | Easy |
