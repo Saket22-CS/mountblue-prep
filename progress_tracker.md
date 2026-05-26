@@ -31,3 +31,4 @@
 | Day 8 | Minimum Absolute Difference in an Array | Sorting | Easy |
 | Day 8 | Mars Exploration | Strings | Easy |
 | Day 8 | Electronics Shop | Implementation | Easy |
+| Day 8 | CamelCase | Strings | Easy |
