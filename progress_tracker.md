@@ -34,3 +34,4 @@
 | Day 8 | CamelCase | Strings | Easy |
 | Day 9 | Viral Advertising | Implementation | Easy |
 | Day 9 | Jumping on the Clouds: Revisited | Implementation | Easy |
+| Day 9 | Game of Stones | Game Theory | Easy |
