@@ -35,3 +35,4 @@
 | Day 9 | Viral Advertising | Implementation | Easy |
 | Day 9 | Jumping on the Clouds: Revisited | Implementation | Easy |
 | Day 9 | Game of Stones | Game Theory | Easy |
+| Day 9 | Marc's Cakewalk | Greedy | Easy |
