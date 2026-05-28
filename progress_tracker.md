@@ -39,3 +39,4 @@
 | Day 10 | Cats and a Mouse | Implementation | Easy |
 | Day 10 | Save the Prisoner! | Math / Implementation | Easy |
 | Day 10 | Beautiful Days at the Movies | Implementation | Easy |
+| Day 10 | Sequence Equation | Arrays / Implementation | Easy |
