@@ -37,3 +37,4 @@
 | Day 9 | Game of Stones | Game Theory | Easy |
 | Day 9 | Marc's Cakewalk | Greedy | Easy |
 | Day 10 | Cats and a Mouse | Implementation | Easy |
+| Day 10 | Save the Prisoner! | Math / Implementation | Easy |
