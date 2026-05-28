@@ -36,3 +36,4 @@
 | Day 9 | Jumping on the Clouds: Revisited | Implementation | Easy |
 | Day 9 | Game of Stones | Game Theory | Easy |
 | Day 9 | Marc's Cakewalk | Greedy | Easy |
+| Day 10 | Cats and a Mouse | Implementation | Easy |
