@@ -43,3 +43,4 @@
 | Day 11 | Grid Challenge | Strings / Sorting | Easy |
 | Day 11 | Angry Professor | Implementation | Easy |
 | Day 11 | Sherlock and Squares | Mathematics | Easy |
+| Day 11 | Circular Array Rotation | Arrays | Easy |
