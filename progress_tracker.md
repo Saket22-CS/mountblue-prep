@@ -47,3 +47,4 @@
 | Day 12 | Big Sorting | Sorting | Easy |
 | Day 12 | Equalize the Array | Arrays | Easy |
 | Day 12 | Minimum Distances | Arrays | Easy |
+| Day 12 | Separate the Numbers | Strings | Medium |
