@@ -44,3 +44,4 @@
 | Day 11 | Angry Professor | Implementation | Easy |
 | Day 11 | Sherlock and Squares | Mathematics | Easy |
 | Day 11 | Circular Array Rotation | Arrays | Easy |
+| Day 12 | Big Sorting | Sorting | Easy |
