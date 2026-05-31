@@ -48,3 +48,4 @@
 | Day 12 | Equalize the Array | Arrays | Easy |
 | Day 12 | Minimum Distances | Arrays | Easy |
 | Day 12 | Separate the Numbers | Strings | Medium |
+| Day 13 | The Love-Letter Mystery | Strings | Easy |
