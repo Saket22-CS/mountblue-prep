@@ -51,3 +51,4 @@
 | Day 13 | The Love-Letter Mystery | Strings | Easy |
 | Day 13 | Halloween Sale | Implementation | Easy |
 | Day 13 | Maximum Perimeter Triangle | Greedy | Easy |
+| Day 13 | Alternating Characters | Strings | Easy |
