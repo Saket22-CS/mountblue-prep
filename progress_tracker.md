@@ -49,3 +49,4 @@
 | Day 12 | Minimum Distances | Arrays | Easy |
 | Day 12 | Separate the Numbers | Strings | Medium |
 | Day 13 | The Love-Letter Mystery | Strings | Easy |
+| Day 13 | Halloween Sale | Implementation | Easy |
