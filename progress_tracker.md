@@ -53,3 +53,4 @@
 | Day 13 | Maximum Perimeter Triangle | Greedy | Easy |
 | Day 13 | Alternating Characters | Strings | Easy |
 | Day 14 | Pangrams | Strings / Sets | Easy |
+| Day 14 | Beautiful Binary String | Strings / Greedy | Easy |
