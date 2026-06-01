@@ -55,3 +55,4 @@
 | Day 14 | Pangrams | Strings / Sets | Easy |
 | Day 14 | Beautiful Binary String | Strings / Greedy | Easy |
 | Day 14 | Utopian Tree | Implementation | Easy |
+| Day 14 | Beautiful Triplets | Arrays / Hashing | Easy |
