@@ -57,3 +57,4 @@
 | Day 14 | Utopian Tree | Implementation | Easy |
 | Day 14 | Beautiful Triplets | Arrays / Hashing | Easy |
 | Day 15 | Picking Numbers | Arrays / Frequency | Easy |
+| Day 15 | Repeated String | Strings | Easy |
