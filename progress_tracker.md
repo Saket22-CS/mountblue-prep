@@ -59,3 +59,4 @@
 | Day 15 | Picking Numbers | Arrays / Frequency | Easy |
 | Day 15 | Repeated String | Strings | Easy |
 | Day 15 | HackerRank in a String! | Strings | Easy |
+| Day 15 | Designer PDF Viewer | Strings/Arrays | Easy |
