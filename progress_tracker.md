@@ -62,3 +62,4 @@
 | Day 15 | Designer PDF Viewer | Strings/Arrays | Easy |
 | Day 16 | Service Lane | Arrays | Easy |
 | Day 16 | Lonely Integer | Bit Manipulation | Easy |
+| Day 16 | Luck Balance | Greedy | Easy |
