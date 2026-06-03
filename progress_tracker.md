@@ -60,3 +60,4 @@
 | Day 15 | Repeated String | Strings | Easy |
 | Day 15 | HackerRank in a String! | Strings | Easy |
 | Day 15 | Designer PDF Viewer | Strings/Arrays | Easy |
+| Day 16 | Service Lane | Arrays | Easy |
