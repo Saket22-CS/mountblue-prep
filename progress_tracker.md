@@ -64,3 +64,4 @@
 | Day 16 | Lonely Integer | Bit Manipulation | Easy |
 | Day 16 | Luck Balance | Greedy | Easy |
 | Day 16 | Append and Delete | Strings | Easy |
+| Day 17 | Misère Nim | Game Theory | Easy |
