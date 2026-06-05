@@ -69,3 +69,4 @@
 | Day 17 | Gemstones | Strings | Easy |
 | Day 17 | Two Strings | Strings, Hashing | Easy |
 | Day 18 | Chocolate Feast | Simulation | Easy |
+| Day 18 | ACM ICPC Team | Bit Manipulation | Easy |
