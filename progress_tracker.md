@@ -70,3 +70,4 @@
 | Day 17 | Two Strings | Strings, Hashing | Easy |
 | Day 18 | Chocolate Feast | Simulation | Easy |
 | Day 18 | ACM ICPC Team | Bit Manipulation | Easy |
+| Day 18 | Taum and B'day | Greedy | Easy |
