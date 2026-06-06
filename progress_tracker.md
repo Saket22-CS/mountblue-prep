@@ -73,3 +73,4 @@
 | Day 18 | Taum and B'day | Greedy | Easy |
 | Day 18 | Funny String | Strings | Easy |
 | Day 19 | Sum vs XOR | Bit Manipulation | Medium |
+| Day 19 | String Construction | Strings | Easy |
