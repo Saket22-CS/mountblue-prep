@@ -75,3 +75,4 @@
 | Day 19 | Sum vs XOR | Bit Manipulation | Medium |
 | Day 19 | String Construction | Strings | Easy |
 | Day 19 | Find Digits | Mathematics | Easy |
+| Day 19 | Palindrome Index | Strings | Easy |
