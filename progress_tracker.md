@@ -72,3 +72,4 @@
 | Day 18 | ACM ICPC Team | Bit Manipulation | Easy |
 | Day 18 | Taum and B'day | Greedy | Easy |
 | Day 18 | Funny String | Strings | Easy |
+| Day 19 | Sum vs XOR | Bit Manipulation | Medium |
