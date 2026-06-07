@@ -77,3 +77,4 @@
 | Day 19 | Find Digits | Mathematics | Easy |
 | Day 19 | Palindrome Index | Strings | Easy |
 | Day 20 | Lisa's Workbook | Implementation | Easy |
+| Day 20 | Smart Number | Debugging | Easy |
