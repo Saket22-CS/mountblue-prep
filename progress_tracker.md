@@ -82,3 +82,4 @@
 | Day 20 | Fair Rations | Greedy | Easy |
 | Day 21 | Anagram | Strings | Easy |
 | Day 21 | Cut the Sticks | Arrays | Easy |
+| Day 21 | Modified Kaprekar Numbers | Implementation | Easy |
