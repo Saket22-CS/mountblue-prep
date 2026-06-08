@@ -83,3 +83,4 @@
 | Day 21 | Anagram | Strings | Easy |
 | Day 21 | Cut the Sticks | Arrays | Easy |
 | Day 21 | Modified Kaprekar Numbers | Implementation | Easy |
+| Day 21 | Sherlock and The Beast | Greedy | Easy |
