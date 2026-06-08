@@ -81,3 +81,4 @@
 | Day 20 | XOR Strings | Debugging | Easy |
 | Day 20 | Fair Rations | Greedy | Easy |
 | Day 21 | Anagram | Strings | Easy |
+| Day 21 | Cut the Sticks | Arrays | Easy |
