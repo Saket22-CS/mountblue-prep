@@ -80,3 +80,4 @@
 | Day 20 | Smart Number | Debugging | Easy |
 | Day 20 | XOR Strings | Debugging | Easy |
 | Day 20 | Fair Rations | Greedy | Easy |
+| Day 21 | Anagram | Strings | Easy |
