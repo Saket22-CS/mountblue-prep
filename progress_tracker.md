@@ -87,3 +87,4 @@
 | Day 22 | Game of Thrones - I | Strings | Easy |
 | Day 22 | Maximizing XOR | Bit Manipulation | Easy |
 | Day 22 | Happy Ladybugs | Strings, Greedy | Easy |
+| Day 22 | Counting Sort 1 | Sorting | Easy |
