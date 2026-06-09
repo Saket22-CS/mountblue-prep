@@ -85,3 +85,4 @@
 | Day 21 | Modified Kaprekar Numbers | Implementation | Easy |
 | Day 21 | Sherlock and The Beast | Greedy | Easy |
 | Day 22 | Game of Thrones - I | Strings | Easy |
+| Day 22 | Maximizing XOR | Bit Manipulation | Easy |
