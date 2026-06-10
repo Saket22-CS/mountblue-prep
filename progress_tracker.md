@@ -89,3 +89,4 @@
 | Day 22 | Happy Ladybugs | Strings, Greedy | Easy |
 | Day 22 | Counting Sort 1 | Sorting | Easy |
 | Day 23 | Priyanka and Toys | Greedy, Sorting | Easy |
+| Day 23 | Cavity Map | 2D Arrays | Easy |
