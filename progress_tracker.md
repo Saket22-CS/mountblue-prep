@@ -91,3 +91,4 @@
 | Day 23 | Priyanka and Toys | Greedy, Sorting | Easy |
 | Day 23 | Cavity Map | 2D Arrays | Easy |
 | Day 23 | Strange Counter | Math  | Easy       |
+| Day 23 | Insertion Sort - Part 1 | Sorting | Easy       |
