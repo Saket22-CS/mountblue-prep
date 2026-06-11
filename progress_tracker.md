@@ -95,3 +95,4 @@
 | Day 24 | Making Anagrams | Strings, Hashing | Easy       |
 | Day 24 | Correctness and the Loop Invariant | Sorting | Easy       |
 | Day 24 | Running Time of Algorithms | Sorting | Easy       |
+| Day 24 | Insertion Sort - Part 2 | Sorting | Easy       |
