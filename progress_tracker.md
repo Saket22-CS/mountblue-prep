@@ -92,3 +92,4 @@
 | Day 23 | Cavity Map | 2D Arrays | Easy |
 | Day 23 | Strange Counter | Math  | Easy       |
 | Day 23 | Insertion Sort - Part 1 | Sorting | Easy       |
+| Day 24 | Making Anagrams | Strings, Hashing | Easy       |
