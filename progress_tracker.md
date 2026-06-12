@@ -96,3 +96,4 @@
 | Day 24 | Correctness and the Loop Invariant | Sorting | Easy       |
 | Day 24 | Running Time of Algorithms | Sorting | Easy       |
 | Day 24 | Insertion Sort - Part 2 | Sorting | Easy       |
+| Day 25 | Intro to Tutorial Challenges | Searching | Easy       |
