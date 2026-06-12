@@ -99,3 +99,4 @@
 | Day 25 | Intro to Tutorial Challenges | Searching | Easy       |
 | Day 25 | Counting Sort 2 | Sorting | Easy       |
 | Day 25 | Manasa and Stones | Mathematics, Combinatorics | Easy       |
+| Day 25 | Largest Permutation | Greedy, Hashing | Medium     |
