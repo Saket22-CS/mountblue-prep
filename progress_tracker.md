@@ -101,3 +101,4 @@
 | Day 25 | Manasa and Stones | Mathematics, Combinatorics | Easy       |
 | Day 25 | Largest Permutation | Greedy, Hashing | Medium     |
 | Day 26 | Mark and Toys | Greedy, Sorting | Easy       |
+| Day 26 | Closest Numbers | Sorting, Arrays | Easy       |
