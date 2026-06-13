@@ -103,3 +103,4 @@
 | Day 26 | Mark and Toys | Greedy, Sorting | Easy       |
 | Day 26 | Closest Numbers | Sorting, Arrays | Easy       |
 | Day 26 | Find the Median | Sorting, Arrays | Easy       |
+| Day 26 | Sherlock and Array | Arrays, Prefix Sum | Easy       |
