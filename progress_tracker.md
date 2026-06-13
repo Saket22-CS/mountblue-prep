@@ -100,3 +100,4 @@
 | Day 25 | Counting Sort 2 | Sorting | Easy       |
 | Day 25 | Manasa and Stones | Mathematics, Combinatorics | Easy       |
 | Day 25 | Largest Permutation | Greedy, Hashing | Medium     |
+| Day 26 | Mark and Toys | Greedy, Sorting | Easy       |
