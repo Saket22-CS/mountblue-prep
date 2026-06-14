@@ -107,3 +107,4 @@
 | Day 27 | Flipping Bits | Bit Manipulation | Easy       |
 | Day 27 | Jim and the Orders | Sorting | Easy       |
 | Day 27 | Permuting Two Arrays | Greedy, Sorting | Easy       |
+| Day 27 | Missing Numbers | Hash Map, Frequency Counting | Easy       |
