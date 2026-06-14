@@ -105,4 +105,5 @@
 | Day 26 | Find the Median | Sorting, Arrays | Easy       |
 | Day 26 | Sherlock and Array | Arrays, Prefix Sum | Easy       |
 | Day 27 | Flipping Bits | Bit Manipulation | Easy       |
-| Day 28 | Jim and the Orders | Sorting | Easy       |
+| Day 27 | Jim and the Orders | Sorting | Easy       |
+| Day 27 | Permuting Two Arrays | Greedy, Sorting | Easy       |
