@@ -104,3 +104,4 @@
 | Day 26 | Closest Numbers | Sorting, Arrays | Easy       |
 | Day 26 | Find the Median | Sorting, Arrays | Easy       |
 | Day 26 | Sherlock and Array | Arrays, Prefix Sum | Easy       |
+| Day 27 | Flipping Bits | Bit Manipulation | Easy       |
