@@ -115,3 +115,4 @@
 | Day 29 | Encryption | Strings, Implementation | Medium     |
 | Day 29 | Sansa and XOR | Bit Manipulation | Easy       |
 | Day 29 | Recursive Digit Sum | Recursion | Medium     |
+| Day 29 | The Grid Search | Strings, Pattern Matching | Medium     |
