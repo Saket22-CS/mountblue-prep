@@ -112,3 +112,4 @@
 | Day 28 | Climbing the Leaderboard | Binary Search, Ranking | Medium     |
 | Day 28 | The Time in Words | Strings, Implementation | Medium     |
 | Day 28 | Organizing Containers of Balls | Greedy, Matrix | Medium     |
+| Day 29 | Encryption | Strings, Implementation | Medium     |
