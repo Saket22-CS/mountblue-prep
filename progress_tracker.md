@@ -114,3 +114,4 @@
 | Day 28 | Organizing Containers of Balls | Greedy, Matrix | Medium     |
 | Day 29 | Encryption | Strings, Implementation | Medium     |
 | Day 29 | Sansa and XOR | Bit Manipulation | Easy       |
+| Day 29 | Recursive Digit Sum | Recursion | Medium     |
