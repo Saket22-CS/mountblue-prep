@@ -119,3 +119,4 @@
 | Day 30 | Flipping the Matrix | Greedy, Matrix Manipulation | Medium     |
 | Day 30 | Counter Game | Bit Manipulation, Game Theory | Medium     |
 | Day 30 | Max Min | Greedy, Sorting | Medium     |
+| Day 30 | Greedy Florist | Greedy, Sorting | Medium     |
