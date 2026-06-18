@@ -120,3 +120,4 @@
 | Day 30 | Counter Game | Bit Manipulation, Game Theory | Medium     |
 | Day 30 | Max Min | Greedy, Sorting | Medium     |
 | Day 30 | Greedy Florist | Greedy, Sorting | Medium     |
+| Day 31 | Sherlock and the Valid String | Hashing, Frequency Counting | Medium     |
